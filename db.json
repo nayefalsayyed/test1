@@ -9,7 +9,7 @@
     time: '12:00',
     petsAllowed: true,
     organizer: 'kat laydee'
-  },
+  }
   {
     id: 5845484,
     category: 'animal welfare',
@@ -20,7 +20,7 @@
     time: '12:00',
     petsAllowed: true,
     organizer: 'kat laydee'
-  },
+  }
   {
     id: 5845484,
     category: 'animal welfare',
