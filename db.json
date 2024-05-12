@@ -1,0 +1,35 @@
+ [
+  {
+    id: 5845484,
+    category: 'animal welfare',
+    title: 'Cat adoption day',
+    decription: 'Find your new feline friend at this event.',
+    location: 'Meow town',
+    date: 'January 28, 2024',
+    time: '12:00',
+    petsAllowed: true,
+    organizer: 'kat laydee'
+  },
+  {
+    id: 5845484,
+    category: 'animal welfare',
+    title: 'Cat adoption day',
+    decription: 'Find your new feline friend at this event.',
+    location: 'Meow town',
+    date: 'January 28, 2024',
+    time: '12:00',
+    petsAllowed: true,
+    organizer: 'kat laydee'
+  },
+  {
+    id: 5845484,
+    category: 'animal welfare',
+    title: 'Cat adoption day',
+    decription: 'Find your new feline friend at this event.',
+    location: 'Meow town',
+    date: 'January 28, 2024',
+    time: '12:00',
+    petsAllowed: true,
+    organizer: 'kat laydee'
+  }
+]
